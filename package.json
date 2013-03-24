@@ -1,0 +1,14 @@
+{
+  "author": "Georg Tavonius <g.tavonius@gmail.com> (http://jaz-lounge.com)",
+  "name": "jaz-short",
+  "description": "node.js URL shortener.",
+  "version": "0.0.1",
+  "engines": {
+    "node": "~0.8"
+  },
+  "dependencies": {
+    "hiredis": "~0.1",
+    "redis": "~0.8"
+  },
+  "devDependencies": {}
+}
